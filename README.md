@@ -5,7 +5,11 @@
 ### **Blockchain Developer** | **AI Integration Specialist**  
 *Building bridges between AI and decentralized systems*
 
-[![Twitter](https://img.shields.io/badge/-@merkleNode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/merkleNode)
+<div align="center">
+  
+![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Sajjil+Akhtar;Blockchain+Developer+%7C+AI+Integration+Specialist;Building+bridges+between+AI+and+decentralized+systems)
+
+[![Twitter](https://img.shields.io/badge/-@merkleNode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&target=_blank)](https://x.com/merkleNode)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merklenode047@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
@@ -17,7 +21,7 @@
 ## 🛠️ **Technical Arsenal**
 
 ### **Blockchain Stack**
-<div align="center">
+<div align="center" class="animated-badges">
   
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
