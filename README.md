@@ -7,7 +7,7 @@
 
 <div align="center">
   
-![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Sajjil+Akhtar;Blockchain+Developer+%7C+AI+Integration+Specialist;Building+bridges+between+AI+and+decentralized+systems)
+![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Sajjil+Akhtar;Blockchain+Developer+%7C+AI+Integration+Specialist;Building+bridges+between+AI+and+decentralized+systems)
 
 [![Twitter](https://img.shields.io/badge/-@merkleNode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&target=_blank)](https://x.com/merkleNode)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
